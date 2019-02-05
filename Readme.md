@@ -1,5 +1,8 @@
-Instructions
+
+###Instructions
 ------------
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jasonh531/ramsey-coding-challenge/master?filepath=coding_challenge.ipynb)
 
 ### Language/Libraries
  - You may complete this code test in any language.
@@ -11,8 +14,8 @@ Please submit your code as a zip file.
 ### Running
 - Please tell us how to run your program. We expect to be able to run it and for it to generate the output file specified.
 
-Original Problem
-================
+###Original Problem
+
 From [HackerRank](https://www.hackerrank.com/challenges/chocolate-feast)
 
 Little Bob loves chocolates, and goes to the store with cash in his pocket. The price of
